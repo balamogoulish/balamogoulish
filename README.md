@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm SeongEun Gwak</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">안녕하세요, 디지털 약자를 위한 서비스를 개발하고 싶은 개발자 곽성은입니다👋</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
