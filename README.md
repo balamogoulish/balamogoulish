@@ -1,3 +1,7 @@
+
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=SEONGEUN%20GWAG&animation=blink&textBg=false&fontSize=70&reversal=false&fontColor=Black)
+<!-- https://capsule-render.vercel.app/ --!>
+
 <h3>디지털 약자가 없는 세상을 만들어 가고 싶은</h3>
 <h1>개발자 곽성은입니다👋</h1>
 <br/>
