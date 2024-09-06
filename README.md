@@ -74,12 +74,8 @@
 <br>
 <h2 align='center'>🔗See More & Connect with me</h2>
 <p align='center'>
-  <a href=[notion]><img align="center" alt="bala|Instagram" width="48px" src="https://img.icons8.com/color/48/000000/notion.png" /></a>
-  <a href=[linkedin]><img align="center" alt="bala|LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
-  <a href=[instagram]><img align="center" alt="bala|Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a>
+  <a href='https://balamogoulish.notion.site/c3de7d28ff9546e4889960e5c5f73ce0?pvs=25'><img align="center" alt="bala|Instagram" width="48px" src="https://img.icons8.com/color/48/000000/notion.png" /></a>
+  <a href='https://www.linkedin.com/in/seongeun-gwak-875599310'><img align="center" alt="bala|LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
+  <a href='https://instagram.com/gwak_gwak25'><img align="center" alt="bala|Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a>
 </p>
 
-
-[notion]: https://balamogoulish.notion.site/c3de7d28ff9546e4889960e5c5f73ce0?pvs=25
-[linkedin]: https://www.linkedin.com/in/seongeun-gwak-875599310
-[instagram]: https://instagram.com/gwak_gwak25
