@@ -14,7 +14,7 @@
   <br/>'디지털 약자'들은 어디로 가야할까요?
 
   <br/>진정한 의미의 모두를 위한 서비스를 개발하고 싶습니다 😀
-  <h3 align='center'>"Together"</h3>
+  <h3 align='center'>"Communication"</h3>
 </h4>
 </br>
 
