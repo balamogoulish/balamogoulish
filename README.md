@@ -57,6 +57,11 @@
   <img src='https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white'>
 </p>
 
+<p align='center'>
+  <img src='./imgs/풀스택.png'>
+</p>
+
+
 
 
 <br>
@@ -65,6 +70,7 @@
   <img src='https://github-readme-stats.vercel.app/api?username=balamogoulish&theme=vue&hide_border=true&include_all_commits=false&count_private=false'>
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=balamogoulish&theme=vue&hide_border=true&include_all_commits=false&count_private=false&layout=compact'>
 </p>
+
 
 <br>
 <h2 align='center'>🔗See More & Connect with me</h2>
