@@ -1,5 +1,9 @@
-<h3>디지털 약자가 없는 세상을 만들어 가고 싶은</h3>
-<h1>개발자 곽성은입니다👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=SEONGEUN%20GWAG&animation=blink&textBg=false&fontSize=70&reversal=false&fontColor=Black" alt="header" />
+</p>
+
+
+<h2 align='center'>디지털 약자가 없는 세상을 만들어 가고 싶은 개발자 곽성은입니다👋</h2>
 <br/>
 
 <p align='center'>
@@ -42,25 +46,35 @@
 </ul>
 <br>
 
-## 💻Tech Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-
-## 📊GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=balamogoulish&theme=vue&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=balamogoulish&theme=vue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)  
+<h2 align='center'>💻Tech Experience</h2>
+<p align="center" style="display: inline-block;">
+  <img src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white'>
+  <img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'>
+  <img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB'>
+  <img src='https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens'>
+  <img src='https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white'>
+  <img src='https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white'>
+  <img src='https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white'>
+</p>
 
 
-## 🔗See More & Connect with me
-[<img align="center" alt="bala|Instagram" width="48px" src="https://img.icons8.com/color/48/000000/notion.png" />][notion]
-[<img align="center" alt="bala|velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website]
-[<img align="center" alt="bala|LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="center" alt="bala|Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
+
+<br>
+<h2 align='center'>📊GitHub Stats</h2> 
+<p align='center'>
+  <img src='https://github-readme-stats.vercel.app/api?username=balamogoulish&theme=vue&hide_border=true&include_all_commits=false&count_private=false'>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=balamogoulish&theme=vue&hide_border=true&include_all_commits=false&count_private=false&layout=compact'>
+</p>
+
+<br>
+<h2 align='center'>🔗See More & Connect with me</h2>
+<p align='center'>
+  <a href=[notion]><img align="center" alt="bala|Instagram" width="48px" src="https://img.icons8.com/color/48/000000/notion.png" /></a>
+  <a href=[website]><img align="center" alt="bala|velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" /></a>
+  <a href=[linkedin]><img align="center" alt="bala|LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
+  <a href=[instagram]><img align="center" alt="bala|Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a>
+</p>
+
 
 [notion]: https://balamogoulish.notion.site/c3de7d28ff9546e4889960e5c5f73ce0?pvs=25
 [website]: https://velog.io/@balamogoulish
