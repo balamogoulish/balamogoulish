@@ -14,6 +14,7 @@
   <br/>'디지털 약자'들은 어디로 가야할까요?
 
   <br/>진정한 의미의 모두를 위한 서비스를 개발하고 싶습니다 😀
+  <h3 align='center'>"Together"</h3>
 </h4>
 </br>
 
@@ -28,11 +29,11 @@
 
 <h2>🏃🏻‍♀️My Activities & Projects</h2>
 <ul>
-  <li><b>신한투자증권 프로디지털 아카데미 5기</b> (2024.09~) <p>- 클라우드 기반의 웹 풀스택 개발 교육</p></li>
-  <li><b><a href='http://www.cla-school.com'>WFK ICT 해외봉사단 팀 "K-hana"</a></b> (2024.07~2024.08) <p>- 해외파견 ICT 교육 및 프로젝트 수행</p></li>
+  <li><b>신한투자증권 프로디지털 아카데미 5기</b> (2024.09~) - 클라우드 기반의 웹 풀스택 개발 교육</li>
+  <li><b><a href='http://www.cla-school.com'>WFK ICT 해외봉사단 팀 "K-hana"</a></b> (2024.07~2024.08) - 해외파견 ICT 교육 및 프로젝트 수행</li>
   <li><b>서울시립대학교 전자전기컴퓨터공학부 재학</b> (2021.03~) <p></li>
-  <li><b>전자전기컴퓨터공학부 소모임 EcE</b> (2023.01~2024.08) <p>- 학실 대여 예약 사이트 프로젝트 수행</p></li>
-  <li><b>학습공동체 "B.B.B"</b> (2023.09~2023.11) <p>- 비콘과 연동된 버스 예약 앱 개발</p></li>
+  <li><b>전자전기컴퓨터공학부 소모임 EcE</b> (2023.01~2024.08) - 학실 대여 예약 사이트 프로젝트 수행</li>
+  <li><b>학습공동체 "B.B.B"</b> (2023.09~2023.11) - 비콘과 연동된 버스 예약 앱 개발</li>
 </ul>
 <br>
 
@@ -44,7 +45,7 @@
 <ul>
   
 </ul>
-<br>
+
 
 <h2 align='center'>💻Tech Experience</h2>
 <p align="center" style="display: inline-block;">
@@ -57,11 +58,9 @@
   <img src='https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white'>
 </p>
 
-<p align='center'>
-  <img src='./imgs/풀스택.png'>
+<p align='center' >
+  <img src='./imgs/풀스택.png' width='600'>
 </p>
-
-
 
 
 <br>
@@ -76,13 +75,11 @@
 <h2 align='center'>🔗See More & Connect with me</h2>
 <p align='center'>
   <a href=[notion]><img align="center" alt="bala|Instagram" width="48px" src="https://img.icons8.com/color/48/000000/notion.png" /></a>
-  <a href=[website]><img align="center" alt="bala|velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" /></a>
   <a href=[linkedin]><img align="center" alt="bala|LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
   <a href=[instagram]><img align="center" alt="bala|Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a>
 </p>
 
 
 [notion]: https://balamogoulish.notion.site/c3de7d28ff9546e4889960e5c5f73ce0?pvs=25
-[website]: https://velog.io/@balamogoulish
 [linkedin]: https://www.linkedin.com/in/seongeun-gwak-875599310
 [instagram]: https://instagram.com/gwak_gwak25
