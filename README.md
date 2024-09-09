@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=SEONGEUN%20GWAK&animation=blink&textBg=false&fontSize=70&reversal=false&fontColor=Black" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=DIGITAL%20ALLY&animation=blink&textBg=false&fontSize=70&reversal=false&fontColor=Black" alt="header" />
 </p>
 
 
-<h2 align='center'>디지털 약자가 없는 세상을 만드는 개발자 곽성은입니다👋</h2>
+<h2 align='center'>디지털 약자가 없는 세상을 만드는, 디지털 동반자 곽성은입니다👋</h2>
 <br/>
 
 <p align='center'>
