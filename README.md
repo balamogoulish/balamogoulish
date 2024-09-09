@@ -33,7 +33,7 @@
   <li><b><a href='http://www.cla-school.com'>WFK ICT 해외봉사단 팀 "K-hana"</a></b> (2024.07~2024.08) - 해외파견 ICT 교육 및 학교 웹사이트 프로젝트 수행</li>
   <li><b>서울시립대학교 전자전기컴퓨터공학부 재학</b> (2021.03~)</li>
   <li><b>전자전기컴퓨터공학부 소모임 EcE</b> (2023.01~2024.08) - 학실 대여 예약 사이트 프로젝트 수행</li>
-  <li><b>학습공동체 "B.B.B"</b> (2023.09~2023.11) - 비콘과 연동된 버스 예약 앱 개발</li>
+  <li><b>학습공동체 "B.B.B"</b> (2023.09~2023.11) - 비콘과 연동된 시각장애인을 위한 버스 예약 앱 개발</li>
   <li>개인 프로젝트 - 자동주식매매 기능을 포함한 펀드 앱 프로젝트 수행</li>
 </ul>
 <br>
@@ -72,4 +72,3 @@
   <a href='https://www.linkedin.com/in/seongeun-gwak-875599310'><img align="center" alt="bala|LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
   <a href='https://instagram.com/gwak_gwak25'><img align="center" alt="bala|Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a>
 </p>
-
