@@ -92,3 +92,9 @@
   <a href='https://www.linkedin.com/in/seongeun-gwak-875599310'><img align="center" alt="bala|LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
   <a href='https://instagram.com/gwak_gwak25'><img align="center" alt="bala|Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a>
 </p>
+
+<div align='center'>
+ 
+ [![](https://visitcount.itsvg.in/api?id=balamogoulish&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
