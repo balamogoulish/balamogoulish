@@ -6,9 +6,6 @@
 <h2 align='center'>디지털 약자가 없는 세상을 만드는, 디지털 동반자 곽성은입니다👋</h2>
 <br/>
 
-<p align='center'>
-  <img src='./imgs/mimoticon.PNG' width="300">
-</p>
 <h4 align="center">
   IT의 발전이 빨라지는 만큼, '디지털 약자'의 어려움도 늘어납니다.
   <br/>'디지털 약자'들은 어디로 가야할까요?
@@ -76,6 +73,11 @@
   <img src='./imgs/풀스택.png' width='600'>
 </p>
 
+<div align='center'>
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/balamogoulish"/>
+  </a>
+</div>
 
 <br>
 <h2 align='center'>📊GitHub Stats</h2> 
