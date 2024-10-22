@@ -6,6 +6,16 @@
 <h2 align='center'>디지털 약자가 없는 세상을 만드는, 디지털 동반자 곽성은입니다👋</h2>
 <br/>
 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/balamogoulish?pet-id=636459961636716227"
+    width="1000"
+    height="120"
+  />
+</a>
+  
+
 <h4 align="center">
   IT의 발전이 빨라지는 만큼, '디지털 약자'의 어려움도 늘어납니다.
   <br/>'디지털 약자'들은 어디로 가야할까요?
