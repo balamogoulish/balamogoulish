@@ -88,7 +88,7 @@
   <img src='https://github-readme-stats.vercel.app/api?username=balamogoulish&theme=vue&hide_border=true&include_all_commits=false&count_private=false'>
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=balamogoulish&theme=vue&hide_border=true&include_all_commits=false&count_private=false&layout=compact'>
   <a href="https://github.com/devxb/gitanimals">
-    <img width='700' src="https://render.gitanimals.org/farms/balamogoulish"/>
+    <img src="https://render.gitanimals.org/farms/balamogoulish}"/>
   </a>
 </p>
 
