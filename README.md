@@ -83,14 +83,20 @@
   
 </div>
 <br>
-<h2 align='center'>📊GitHub Stats</h2> 
+<h2 align='center'>📊 GitHub Stats</h2>
 <p align='center'>
-  <img src='https://github-readme-stats.vercel.app/api?username=balamogoulish&theme=vue&hide_border=true&include_all_commits=false&count_private=false'>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=balamogoulish&theme=vue&hide_border=true&include_all_commits=false&count_private=false&layout=compact'>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+    <img src='https://github-readme-stats.vercel.app/api?username=balamogoulish&theme=vue&hide_border=true&include_all_commits=false&count_private=false' alt="GitHub Stats">
+    <img src='http://mazassumnida.wtf/api/v2/generate_badge?boj=codeline02' alt="BOJ Stats">
+  </div>
+</p>
+<p align='center'>
   <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/balamogoulish}"/>
+    <img src="https://render.gitanimals.org/farms/balamogoulish" alt="GitAnimals">
   </a>
 </p>
+
+
 
 
 <br>
