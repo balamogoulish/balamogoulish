@@ -93,7 +93,11 @@
 </p>
 <p align='center'>
   <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/balamogoulish" alt="GitAnimals">
+  <img
+    src="https://render.gitanimals.org/farms/balamogoulish"
+    width="1000"
+    height="300"
+  />
   </a>
 </p>
 
