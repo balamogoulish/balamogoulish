@@ -6,14 +6,14 @@
 <h2 align='center'>디지털 약자가 없는 세상을 만드는, 디지털 동반자 곽성은입니다👋</h2>
 <br/>
 
-
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/balamogoulish?pet-id=707815636657570790"
-    width="1000"
-    height="120"
-  />
-</a>
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/708240072269124819/draw"
+        width="1000"
+         height="300"
+        alt="gitanimals"
+      />
+    </a>
   
 
 <h4 align="center">
