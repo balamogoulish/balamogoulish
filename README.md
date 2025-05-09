@@ -14,7 +14,6 @@
         alt="gitanimals"
       />
     </a>
-  
 
 <h4 align="center">
   IT의 발전이 빨라지는 만큼, '디지털 약자'의 어려움도 늘어납니다.
