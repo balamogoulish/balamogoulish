@@ -79,7 +79,7 @@
     <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=balamogoulish&utm_content=farm">
       <img
         src="https://render.gitanimals.org/farms/balamogoulish"
-        width="600"
+        width="500"
         height="300"
       />
     </a>
@@ -93,9 +93,6 @@
     </a>
   </div>
 </div>
-
-
-
 
 <br>
 <h2 align='center'>🔗See More & Connect with me</h2>
