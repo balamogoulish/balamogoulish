@@ -76,10 +76,10 @@
 </div>
 <div align='center'>
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-    <a href="https://github.com/devxb/gitanimals">
+    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=balamogoulish&utm_content=farm">
       <img
         src="https://render.gitanimals.org/farms/balamogoulish"
-        width="500"
+        width="600"
         height="300"
       />
     </a>
