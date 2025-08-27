@@ -2,8 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=GWAK%20SEONGEUN&animation=blink&textBg=false&fontSize=70&reversal=false&fontColor=Black" alt="header" />
 </p>
 
-<div align="center" style="font-size: 80px; font-weight: bold; margin-bottom: 10px;">
-  <b>넓은 시야로 꾸준히 몰입하는 개발자 곽성은입니다 👋</b>
+<div align="center" style="font-size: 40px; font-weight: bold; margin-bottom: 10px;">
+  <h1>넓은 시야로 몰입하는 개발자 곽성은입니다 👋</b>
 </div>
 <br/>
 
@@ -18,9 +18,10 @@
 
 <h2>🏃🏻‍♀️My Activities & Projects</h2>
 <ul>
-  <li><b>신한투자증권 인턴십</b> (2025.04~2025.05) - 사내 RestAPI 공통 모듈 개발(개인과제) 및 경제지표 별 종목,섹터 영향도 분석 플랫폼(팀과제) 수행</li>
+  <li><b>예비관광벤처 선정 및 WorkAway 개발</b> (2025.04~) - 국내 게스트하우스 숙박-구인구직 플랫폼 프론트엔드 개발</li>
+  <li><b>신한투자증권 인턴십</b> (2025.04~2025.05) - 사내 RestAPI 공통 모듈 개발 및 경제지표 별 종목,섹터 영향도 분석 플랫폼 개발</li>
   <li><b>신한투자증권 프로디지털 아카데미 5기</b> (2024.09~2025.03) - 클라우드 기반의 웹 풀스택 개발 교육</li>
-  <li><b><a href='http://www.cla-school.com'>WFK ICT 해외봉사단 팀 "K-hana"</a></b> (2024.07~2024.08) - 해외파견 ICT 교육 및 학교 웹사이트 프로젝트 수행</li>
+  <li><b>WFK ICT 해외봉사단 팀 "K-hana"</b> (2024.07~2024.08) - 해외파견 ICT 교육 및 학교 웹사이트 프로젝트 수행</li>
   <li>개인 프로젝트 - 자동주식매매 기능을 포함한 펀드 앱 프로젝트 수행</b> (2023.11) </li>
   <li><b>학습공동체 "B.B.B"</b> (2023.09~2023.11) - 비콘과 연동된 시각장애인을 위한 버스 예약 앱 개발</li>
   <li><b>전자전기컴퓨터공학부 소모임 EcE</b> (2023.01~2024.08) - 학실 대여 예약 사이트 프로젝트 수행</li>
@@ -65,7 +66,7 @@
 
 <p align='center' ><img src='./imgs/풀스택.png' width='600'></p>
   
-</div>
+
 <br>
 <h2 align='center'>📊 GitHub Stats</h2>
 <div align='center'>
@@ -79,14 +80,14 @@
     <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=balamogoulish&utm_content=farm">
       <img
         src="https://render.gitanimals.org/farms/balamogoulish"
-        width="500"
+        width="400"
         height="300"
       />
     </a>
     <a href="https://www.gitanimals.org/">
       <img
         src="https://render.gitanimals.org/guilds/708240072269124819/draw"
-        width="500"
+        width="400"
         height="300"
         alt="gitanimals"
       />
@@ -101,9 +102,3 @@
   <a href='https://www.linkedin.com/in/seongeun-gwak-875599310'><img align="center" alt="bala|LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
   <a href='https://instagram.com/gwak_gwak25'><img align="center" alt="bala|Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a>
 </p>
-
-<div align='center'>
- 
- [![](https://visitcount.itsvg.in/api?id=balamogoulish&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>
