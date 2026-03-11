@@ -3,11 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=GWAK%20SEONGEUN&animation=blink&textBg=false&fontSize=70&reversal=false&fontColor=Black" alt="header" />
 </p>
 
-<div align="center">
-  <h1>넓은 시야로 몰입하는 개발자 곽성은입니다 👋</h1>
-</div>
-
-<br/>
 
 <!-- About -->
 <h2>💫 About Me</h2>
