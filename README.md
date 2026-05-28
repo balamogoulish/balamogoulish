@@ -113,7 +113,7 @@
 
 <div align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=balamogoulish&utm_content=farm">
-    <img src="https://render.gitanimals.org/farms/balamogoulish" width="400" height="300" alt="gitanimals farm"/>
+    <img src="https://render.gitanimals.org/farms/balamogoulish" width="600" height="300" alt="gitanimals farm"/>
   </a>
 </div>
 
