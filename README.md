@@ -3,13 +3,14 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=GWAK%20SEONGEUN&animation=blink&textBg=false&fontSize=70&reversal=false&fontColor=Black" alt="header" />
 </p>
 
+<br/>
 
-<!-- About -->
-<h2>💫 About Me</h2>
+<!-- Careers -->
+<h2>💼 Careers</h2>
 <ul>
-  <li><b>실시간성과 안정성</b>을 확보한 개발자가 되고 싶습니다.</li>
-  <li><b>몰입과 집중</b>을 통해 꾸준한 발전을 지향합니다.</li>
-  <li><b>전체를 보는 시야</b>를 통해 다양한 방면에서 문제를 해결하고 싶습니다.</li>
+  <li><b>한화시스템ICT</b> (2026.01~) - 자산운용 SAP 개발 🆕</li>
+  <li>게딱지 (2025.04~2025.12) - 국내 게스트하우스 숙박-구인구직 플랫폼 프론트엔드 개발</li>
+  <li>신한투자증권(인턴) (2025.04~2025.05) - 정보계 개발</li>
 </ul>
 
 <br/>
@@ -17,14 +18,13 @@
 <!-- Activities & Projects -->
 <h2>🏃🏻‍♀️ My Activities & Projects</h2>
 <ul>
-  <li><b>예비관광벤처 선정 및 WorkAway 개발</b> (2025.04~) - 국내 게스트하우스 숙박-구인구직 플랫폼 프론트엔드 개발</li>
-  <li><b>신한투자증권 인턴십</b> (2025.04~2025.05) - 사내 REST API 공통 모듈 개발 및 경제지표 별 종목·섹터 영향도 분석 플랫폼 개발</li>
-  <li><b>신한투자증권 프로디지털 아카데미 5기</b> (2024.09~2025.03) - 클라우드 기반의 웹 풀스택 개발 교육</li>
-  <li><b>WFK ICT 해외봉사단 팀 "K-hana"</b> (2024.07~2024.08) - 해외파견 ICT 교육 및 학교 웹사이트 프로젝트 수행</li>
-  <li><b>개인 프로젝트</b> - 자동주식매매 기능을 포함한 펀드 앱 프로젝트 수행 (2023.11)</li>
-  <li><b>학습공동체 "B.B.B"</b> (2023.09~2023.11) - 비콘과 연동된 시각장애인을 위한 버스 예약 앱 개발</li>
-  <li><b>전자전기컴퓨터공학부 소모임 EcE</b> (2023.01~2024.08) - 학실 대여 예약 사이트 프로젝트 수행</li>
-  <li><b>서울시립대학교 전자전기컴퓨터공학부 재학</b> (2021.03~)</li>
+  <li>예비관광벤처 선정 및 WorkAway 개발 (2025.04~2025.12) - 국내 게스트하우스 숙박-구인구직 플랫폼 프론트엔드 개발</li>
+  <li>신한투자증권 인턴십 (2025.04~2025.05) - 사내 REST API 공통 모듈 개발 및 경제지표 별 종목·섹터 영향도 분석 플랫폼 개발</li>
+  <li>신한투자증권 프로디지털 아카데미 5기 (2024.09~2025.03) - 클라우드 기반의 웹 풀스택 개발 교육</li>
+  <li>WFK ICT 해외봉사단 팀 "K-hana" (2024.07~2024.08) - 해외파견 ICT 교육 및 학교 웹사이트 프로젝트 수행</li>
+  <li>학습공동체 "B.B.B"</b> (2023.09~2023.11) - 비콘과 연동된 시각장애인을 위한 버스 예약 앱 개발</li>
+  <li>전자전기컴퓨터공학부 소모임 EcE (2023.01~2024.08) - 학실 대여 예약 사이트 프로젝트 수행</li>
+  <li>서울시립대학교 전자전기컴퓨터공학부 재학 (2021.03~2025.02)</li>
 </ul>
 
 <table>
@@ -62,6 +62,9 @@
 <!-- Tech Experience -->
 <h2 align="center">💻 Tech Experience</h2>
 <p align="center">
+  <a href="https://www.sap.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="sap"/>
+</a>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a>
@@ -106,19 +109,11 @@
 
 <br/>
 
-<!-- GitHub / BOJ / gitanimals -->
-<h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=balamogoulish&theme=vue&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=codeline02" alt="BOJ Stats" />
-</div>
+<!-- gitanimals -->
 
 <div align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=balamogoulish&utm_content=farm">
     <img src="https://render.gitanimals.org/farms/balamogoulish" width="400" height="300" alt="gitanimals farm"/>
-  </a>
-  <a href="https://www.gitanimals.org/">
-    <img src="https://render.gitanimals.org/guilds/708240072269124819/draw" width="400" height="300" alt="gitanimals guild"/>
   </a>
 </div>
 
